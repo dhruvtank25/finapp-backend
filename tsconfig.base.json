@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@finapp/common": ["packages/common"],
+      "@finapp/types": ["packages/types"]
+    }
+  }
+}
